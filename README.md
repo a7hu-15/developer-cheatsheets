@@ -8,6 +8,8 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 |------------|-------------|
 | [Git Cheatsheet](git-cheatsheet.md) | Essential Git commands for daily workflow |
 | [Python Cheatsheet](python-cheatsheet.md) | Python syntax, patterns, and best practices |
+| [Docker Cheatsheet](docker-cheatsheet.md) | Docker CLI, Dockerfile syntax, multi-stage builds, & Compose |
+| [SQL Cheatsheet](sql-cheatsheet.md) | Modern SQL, Joins, Window Functions, CTEs, & Indexing |
 
 ## 🤝 Contributing
 
