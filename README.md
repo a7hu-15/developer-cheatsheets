@@ -10,6 +10,8 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Python Cheatsheet](python-cheatsheet.md) | Python syntax, patterns, and best practices |
 | [Docker Cheatsheet](docker-cheatsheet.md) | Docker CLI, Dockerfile syntax, multi-stage builds, & Compose |
 | [SQL Cheatsheet](sql-cheatsheet.md) | Modern SQL, Joins, Window Functions, CTEs, & Indexing |
+| [Kubernetes & Helm Cheatsheet](k8s-helm-cheatsheet.md) | `kubectl` management, debugging commands, & Helm 3 charts |
+| [GitHub Actions Cheatsheet](github-actions-cheatsheet.md) | CI/CD workflows, matrix builds, caching, & secrets |
 
 ## 🤝 Contributing
 
