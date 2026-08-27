@@ -12,6 +12,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [SQL Cheatsheet](sql-cheatsheet.md) | Modern SQL, Joins, Window Functions, CTEs, & Indexing |
 | [Kubernetes & Helm Cheatsheet](k8s-helm-cheatsheet.md) | `kubectl` management, debugging commands, & Helm 3 charts |
 | [GitHub Actions Cheatsheet](github-actions-cheatsheet.md) | CI/CD workflows, matrix builds, caching, & secrets |
+| [REST API Cheatsheet](rest-api-cheatsheet.md) | RESTful API design, HTTP methods, status codes, & security headers |
 
 ## 🤝 Contributing
 
