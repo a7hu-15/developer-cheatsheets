@@ -18,6 +18,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Redis Cheatsheet](redis-caching-cheatsheet.md) | Redis data structures, CLI commands, eviction policies, & persistence |
 | [RegEx Cheatsheet](regex-cheatsheet.md) | Patterns, character classes, quantifiers, lookarounds, & code snippets |
 | [JavaScript & TypeScript Cheatsheet](js-ts-cheatsheet.md) | ES6+, async/await, Promises, TypeScript generics, & utility types |
+| [Web Security & OWASP Cheatsheet](web-security-owasp-cheatsheet.md) | OWASP Top 10, security headers, XSS/SQLi prevention, JWT, & password hashing |
 
 ## 🤝 Contributing
 
