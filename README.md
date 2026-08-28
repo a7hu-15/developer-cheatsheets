@@ -13,6 +13,11 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Kubernetes & Helm Cheatsheet](k8s-helm-cheatsheet.md) | `kubectl` management, debugging commands, & Helm 3 charts |
 | [GitHub Actions Cheatsheet](github-actions-cheatsheet.md) | CI/CD workflows, matrix builds, caching, & secrets |
 | [REST API Cheatsheet](rest-api-cheatsheet.md) | RESTful API design, HTTP methods, status codes, & security headers |
+| [Linux Bash Cheatsheet](linux-bash-cheatsheet.md) | Shell scripting, `awk`/`sed`/`grep`, process management, & networking |
+| [System Design Cheatsheet](system-design-cheatsheet.md) | Scalability, CAP theorem, load balancing, caching, & message queues |
+| [Redis Cheatsheet](redis-caching-cheatsheet.md) | Redis data structures, CLI commands, eviction policies, & persistence |
+| [RegEx Cheatsheet](regex-cheatsheet.md) | Patterns, character classes, quantifiers, lookarounds, & code snippets |
+| [JavaScript & TypeScript Cheatsheet](js-ts-cheatsheet.md) | ES6+, async/await, Promises, TypeScript generics, & utility types |
 
 ## 🤝 Contributing
 
