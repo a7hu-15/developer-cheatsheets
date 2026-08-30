@@ -19,6 +19,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [RegEx Cheatsheet](regex-cheatsheet.md) | Patterns, character classes, quantifiers, lookarounds, & code snippets |
 | [JavaScript & TypeScript Cheatsheet](js-ts-cheatsheet.md) | ES6+, async/await, Promises, TypeScript generics, & utility types |
 | [Web Security & OWASP Cheatsheet](web-security-owasp-cheatsheet.md) | OWASP Top 10, security headers, XSS/SQLi prevention, JWT, & password hashing |
+| [GraphQL & Schema Design Cheatsheet](graphql-cheatsheet.md) | SDL syntax, query/mutation fragments, DataLoader N+1 batching, & security |
 
 ## 🤝 Contributing
 
