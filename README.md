@@ -22,6 +22,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [GraphQL & Schema Design Cheatsheet](graphql-cheatsheet.md) | SDL syntax, query/mutation fragments, DataLoader N+1 batching, & security |
 | [Kafka & Event-Driven Architecture Cheatsheet](kafka-event-driven-cheatsheet.md) | Topics, partitions, consumer groups, delivery guarantees, log compaction, & CLI commands |
 | [PostgreSQL Indexing Cheatsheet](postgresql-indexing-cheatsheet.md) | B-Tree, GIN, GiST, BRIN index selection, EXPLAIN ANALYZE, & zero-downtime REINDEX |
+| [Terraform & IaC Cheatsheet](terraform-iac-cheatsheet.md) | HCL syntax, provider setup, remote state locking, state CLI, for_each, & drift detection |
 
 ## 🤝 Contributing
 
