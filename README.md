@@ -23,6 +23,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Kafka & Event-Driven Architecture Cheatsheet](kafka-event-driven-cheatsheet.md) | Topics, partitions, consumer groups, delivery guarantees, log compaction, & CLI commands |
 | [PostgreSQL Indexing Cheatsheet](postgresql-indexing-cheatsheet.md) | B-Tree, GIN, GiST, BRIN index selection, EXPLAIN ANALYZE, & zero-downtime REINDEX |
 | [Terraform & IaC Cheatsheet](terraform-iac-cheatsheet.md) | HCL syntax, provider setup, remote state locking, state CLI, for_each, & drift detection |
+| [Prometheus & Grafana Observability Cheatsheet](observability-prometheus-grafana-cheatsheet.md) | Prometheus metrics, PromQL queries, Grafana alerting, 4 Golden Signals, RED & USE frameworks |
 
 ## 🤝 Contributing
 
