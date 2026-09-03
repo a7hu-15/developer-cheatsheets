@@ -24,6 +24,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [PostgreSQL Indexing Cheatsheet](postgresql-indexing-cheatsheet.md) | B-Tree, GIN, GiST, BRIN index selection, EXPLAIN ANALYZE, & zero-downtime REINDEX |
 | [Terraform & IaC Cheatsheet](terraform-iac-cheatsheet.md) | HCL syntax, provider setup, remote state locking, state CLI, for_each, & drift detection |
 | [Prometheus & Grafana Observability Cheatsheet](observability-prometheus-grafana-cheatsheet.md) | Prometheus metrics, PromQL queries, Grafana alerting, 4 Golden Signals, RED & USE frameworks |
+| [MongoDB & NoSQL Architecture Cheatsheet](mongodb-nosql-cheatsheet.md) | Document data modeling, index types, Aggregation Pipeline, Replica Sets, Sharding, & query performance tuning |
 
 ## 🤝 Contributing
 
