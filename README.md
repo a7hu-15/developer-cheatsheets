@@ -25,6 +25,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Terraform & IaC Cheatsheet](terraform-iac-cheatsheet.md) | HCL syntax, provider setup, remote state locking, state CLI, for_each, & drift detection |
 | [Prometheus & Grafana Observability Cheatsheet](observability-prometheus-grafana-cheatsheet.md) | Prometheus metrics, PromQL queries, Grafana alerting, 4 Golden Signals, RED & USE frameworks |
 | [MongoDB & NoSQL Architecture Cheatsheet](mongodb-nosql-cheatsheet.md) | Document data modeling, index types, Aggregation Pipeline, Replica Sets, Sharding, & query performance tuning |
+| [Go (Golang) Cheatsheet](go-cheatsheet.md) | Go syntax, concurrency primitives, interfaces, generics, & CLI tooling |
 
 ## 🤝 Contributing
 
