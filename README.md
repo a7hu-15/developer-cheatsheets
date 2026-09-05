@@ -26,6 +26,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Prometheus & Grafana Observability Cheatsheet](observability-prometheus-grafana-cheatsheet.md) | Prometheus metrics, PromQL queries, Grafana alerting, 4 Golden Signals, RED & USE frameworks |
 | [MongoDB & NoSQL Architecture Cheatsheet](mongodb-nosql-cheatsheet.md) | Document data modeling, index types, Aggregation Pipeline, Replica Sets, Sharding, & query performance tuning |
 | [Go (Golang) Cheatsheet](go-cheatsheet.md) | Go syntax, concurrency primitives, interfaces, generics, & CLI tooling |
+| [AWS Cloud Architecture Cheatsheet](aws-cloud-cheatsheet.md) | AWS core services, IAM RBAC policies, multi-AZ VPC, S3/DynamoDB CLI commands, & security |
 
 ## 🤝 Contributing
 
