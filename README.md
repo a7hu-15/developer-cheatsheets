@@ -27,6 +27,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [MongoDB & NoSQL Architecture Cheatsheet](mongodb-nosql-cheatsheet.md) | Document data modeling, index types, Aggregation Pipeline, Replica Sets, Sharding, & query performance tuning |
 | [Go (Golang) Cheatsheet](go-cheatsheet.md) | Go syntax, concurrency primitives, interfaces, generics, & CLI tooling |
 | [AWS Cloud Architecture Cheatsheet](aws-cloud-cheatsheet.md) | AWS core services, IAM RBAC policies, multi-AZ VPC, S3/DynamoDB CLI commands, & security |
+| [gRPC & Protocol Buffers Cheatsheet](grpc-protobuf-cheatsheet.md) | `proto3` syntax, RPC service types, status codes, deadlines/timeouts, metadata headers, & performance tuning |
 
 ## 🤝 Contributing
 
