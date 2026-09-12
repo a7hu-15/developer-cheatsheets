@@ -28,6 +28,7 @@ A collection of concise, practical cheatsheets for developers. Quick reference g
 | [Go (Golang) Cheatsheet](go-cheatsheet.md) | Go syntax, concurrency primitives, interfaces, generics, & CLI tooling |
 | [AWS Cloud Architecture Cheatsheet](aws-cloud-cheatsheet.md) | AWS core services, IAM RBAC policies, multi-AZ VPC, S3/DynamoDB CLI commands, & security |
 | [gRPC & Protocol Buffers Cheatsheet](grpc-protobuf-cheatsheet.md) | `proto3` syntax, RPC service types, status codes, deadlines/timeouts, metadata headers, & performance tuning |
+| [Microservices & Distributed Systems Cheatsheet](microservices-distributed-systems-cheatsheet.md) | Saga Pattern, CQRS, Circuit Breakers, Transactional Outbox, OpenTelemetry tracing, & gRPC vs REST |
 
 ## 🤝 Contributing
 
